@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Search Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_Popular">Most Popular</string>
+    <string name="action_Top_Rated">Top Rated</string>
+    <string name="action_Upcoming">Upcoming</string>
+    <string name="textview">TextView</string>
+    <string name="order_by">Order by</string>
+</resources>
